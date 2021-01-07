@@ -42,6 +42,6 @@ export default {
 
   target: 'static',
   router: {
-    base: '/<repository-name>/'
+    base: '/<nuxt_dadjokes>/'
   }
 }
